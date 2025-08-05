@@ -9,7 +9,7 @@
 •  7.) There are 3 task in this that you have to complete. Discuss with your instructor to understand the task.
  */
 
-const API_KEY = "6ff7e31b"; 
+const API_KEY = ""; 
 const searchBar = document.getElementById("searchBar");
 const searchIcon = document.getElementById("icon");
 const moviesContainer = document.getElementById("movies-container");
